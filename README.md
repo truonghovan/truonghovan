@@ -1,7 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ho Van Truong</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=truonghovan&label=Profile%20views&color=0e75b6&style=flat" alt="truonghovan" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -16,3 +14,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=truonghovan&show_icons=true&locale=en&layout=compact" alt="truonghovan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=truonghovan&show_icons=true&locale=en" alt="truonghovan" /></p>
+
